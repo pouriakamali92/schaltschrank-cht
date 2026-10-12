@@ -1,0 +1,25 @@
+# Simulations-/CAD-/Rohdaten
+*.cas
+*.dat
+*.h5
+*.msh
+*.wbpj
+*.cgns
+*.csv
+*.stp
+*.step
+*.prt
+*.vtk
+*.vtu
+
+# Ordner
+laeufe/
+rom_export/
+logs/
+__pycache__/
+*.pyc
+
+# Ausnahmen
+!images/
+!images/**
+!docs/*.pdf
